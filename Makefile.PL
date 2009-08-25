@@ -6,7 +6,7 @@ author   'Kieren Diment <zarquon@cpan.org>';
 license  'perl';
 
 build_requires 'Test::More';
-
+requires 'Moose';
 auto_install;
 
 WriteAll;
