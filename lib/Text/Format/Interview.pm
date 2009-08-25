@@ -11,11 +11,7 @@ Version 0.03
 
 =cut
 
-<<<<<<< HEAD:lib/Text/Format/Interview.pm
 our $VERSION = '0.03';
-=======
-our $VERSION = '0.02';
->>>>>>> 0c88d5aa5e34073d4b2c4476b0fc1de149221551:lib/Text/Format/Interview.pm
 
 =head1 SYNOPSIS
 
